@@ -56,10 +56,8 @@ images/02_device_api.png
 
 插入：
 
-```markdown
 ![Device API 发现证据](images/01_device_api.png)
 ![Device API 发现证据](images/02_device_api.png)
-```
 
 ---
 
@@ -89,9 +87,7 @@ images/02_company_source.png
 
 插入：
 
-```markdown
 ![Company 静态加载证据](images/02_company_source.png)
-```
 
 ---
 
@@ -238,9 +234,7 @@ images/03_company_next.png
 
 插入：
 
-```markdown
 ![Company 下一页元素](images/03_company_next.png)
-```
 
 ---
 
@@ -314,9 +308,7 @@ Company–Device 不一致企业数
 
 插入：
 
-```markdown
 ![最终验证结果](images/04_validation.png)
-```
 
 ---
 
